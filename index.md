@@ -2,8 +2,8 @@
 # Léa Champion
 ### 06.20.06.45.57
 ### championlea@outlook.fr
-
- ![This is a alt text.](moi.jpeg "This is a sample image."). You may be using [Markdown Live Preview](https://www.linkedin.com/in/l%C3%A9a-champion-73368917a/).
+[Retrouvez-moi sur Linkedin](https://www.linkedin.com/in/l%C3%A9a-champion-73368917a/).
+ ![This is a alt text.](moi.jpeg "This is a sample image.").  
 
 ### Ma formation
 * 2023-2021 : Master Communication Corporate - ISD Flaubert
