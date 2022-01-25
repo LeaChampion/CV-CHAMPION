@@ -50,3 +50,18 @@ Mise en forme de document
 * Community Manager 
 * Création d'outils de communication 
 
+### Compétences 
+
+* Illustrator
+* Photoshop
+* InDesign
+* Microsoft 
+* Espagnol
+* Anglais
+
+### Centres d'intérêts 
+1. Lecture
+1. Videos
+1. Photographie
+1. Theatre
+1. Voyage
