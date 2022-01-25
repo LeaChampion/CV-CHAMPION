@@ -14,17 +14,17 @@
 
 2022-2021 : **LE GROUPE LA POSTE** 
 
-Assistante chargée de projet 
+*Assistante chargée de projet* 
 
 * Création et gestion de projets et d'événements 
 
 2021 : **CRÉDIT AGRICOLE NORMANDIE SEINE**
 
-Agent commercial CRC Web 
+*Agent commercial CRC Web*
 
 2021 : **LITTORAL NORMAND**
 
-Assistante chargée de communication 
+*Assistante chargée de communication*
 * Création d'un extranet salarié 
 Création de vidéos sur le site internet 
 Production de vidéos 
@@ -32,17 +32,17 @@ Mise en forme de document
 
 2020 : **NEXITY** 
 
-Négociatrice location saisonnier
+*Négociatrice location saisonnier*
 
 2020 : **CLUB DE LA PRESSE ET DE LA COMMUNICATION DE NORMANDIE**
 
-Chargée de communication et de relations presses
+*Chargée de communication et de relations presses*
 * Rédaction d'articles
 * Gestion d'un événement concernant l'élection des maires 76
 
 2019 : **AROÉVEN DE ROUEN**
 
-Chargée de communication 
+*Chargée de communication*
 * Création d'un catalogue numérique 
 * Community Manager 
 * Création d'outils de communication 
