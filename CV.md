@@ -3,7 +3,7 @@
 ### 06.20.06.45.57
 ### championlea@outlook.fr
 
-image : ![This is a alt text.](/image/moi.png "This is a sample image.")
+image : ![This is a alt text.](/image/moi.jpeg "This is a sample image.")
 
 ### Ma formation
 * 2023-2021 : Master Communication Corporate - ISD Flaubert
